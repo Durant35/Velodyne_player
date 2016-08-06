@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/codeasserts/!svn/ver/2/trunk/lidar/WpdPack/Examples-pcap/UDPdump
+END
+udpdump.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/codeasserts/!svn/ver/2/trunk/lidar/WpdPack/Examples-pcap/UDPdump/udpdump.c
+END
+UDPdump.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/codeasserts/!svn/ver/2/trunk/lidar/WpdPack/Examples-pcap/UDPdump/UDPdump.vcproj
+END
+UDPdump.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/codeasserts/!svn/ver/2/trunk/lidar/WpdPack/Examples-pcap/UDPdump/UDPdump.dsp
+END
+GNUmakefile
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/codeasserts/!svn/ver/2/trunk/lidar/WpdPack/Examples-pcap/UDPdump/GNUmakefile
+END
+UDPdump.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/codeasserts/!svn/ver/2/trunk/lidar/WpdPack/Examples-pcap/UDPdump/UDPdump.dsw
+END

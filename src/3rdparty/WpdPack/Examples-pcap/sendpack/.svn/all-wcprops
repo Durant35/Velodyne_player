@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/codeasserts/!svn/ver/2/trunk/lidar/WpdPack/Examples-pcap/sendpack
+END
+sendpack.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/codeasserts/!svn/ver/2/trunk/lidar/WpdPack/Examples-pcap/sendpack/sendpack.dsw
+END
+GNUmakefile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/codeasserts/!svn/ver/2/trunk/lidar/WpdPack/Examples-pcap/sendpack/GNUmakefile
+END
+sendpack.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/codeasserts/!svn/ver/2/trunk/lidar/WpdPack/Examples-pcap/sendpack/sendpack.c
+END
+sendpack.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/codeasserts/!svn/ver/2/trunk/lidar/WpdPack/Examples-pcap/sendpack/sendpack.vcproj
+END
+sendpack.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/codeasserts/!svn/ver/2/trunk/lidar/WpdPack/Examples-pcap/sendpack/sendpack.dsp
+END

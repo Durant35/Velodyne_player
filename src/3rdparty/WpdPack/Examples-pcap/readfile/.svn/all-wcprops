@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/codeasserts/!svn/ver/2/trunk/lidar/WpdPack/Examples-pcap/readfile
+END
+readfile.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/codeasserts/!svn/ver/2/trunk/lidar/WpdPack/Examples-pcap/readfile/readfile.dsp
+END
+GNUmakefile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/codeasserts/!svn/ver/2/trunk/lidar/WpdPack/Examples-pcap/readfile/GNUmakefile
+END
+readfile.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/codeasserts/!svn/ver/2/trunk/lidar/WpdPack/Examples-pcap/readfile/readfile.dsw
+END
+readfile.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/codeasserts/!svn/ver/2/trunk/lidar/WpdPack/Examples-pcap/readfile/readfile.c
+END
+readfile.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/codeasserts/!svn/ver/2/trunk/lidar/WpdPack/Examples-pcap/readfile/readfile.vcproj
+END

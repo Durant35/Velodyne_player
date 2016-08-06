@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/codeasserts/!svn/ver/2/trunk/lidar/WpdPack/Examples-pcap/basic_dump_ex
+END
+basic_dump_ex.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/codeasserts/!svn/ver/2/trunk/lidar/WpdPack/Examples-pcap/basic_dump_ex/basic_dump_ex.c
+END
+basic_dump_ex.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/codeasserts/!svn/ver/2/trunk/lidar/WpdPack/Examples-pcap/basic_dump_ex/basic_dump_ex.vcproj
+END
+GNUmakefile
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/codeasserts/!svn/ver/2/trunk/lidar/WpdPack/Examples-pcap/basic_dump_ex/GNUmakefile
+END
+basic_dump_ex.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/codeasserts/!svn/ver/2/trunk/lidar/WpdPack/Examples-pcap/basic_dump_ex/basic_dump_ex.dsp
+END
+basic_dump_ex.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/codeasserts/!svn/ver/2/trunk/lidar/WpdPack/Examples-pcap/basic_dump_ex/basic_dump_ex.dsw
+END
